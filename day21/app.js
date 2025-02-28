@@ -65,6 +65,14 @@
 // console.log(str.search("Script") !== -1);
 // console.log(str.indexOf("Script") !== -1)
 
+
+// 9. Create an array of 5 numbers and log the sum using .reduce().
+
+// let numbers = [10, 20, 30, 40, 50];
+// let sum = numbers.reduce((acc, num) => acc + num, 0);
+// console.log("Sum:", sum); // Sum: 150
+
+
 // 10. Explain the difference between undefined, null, and NaN with examples.
 // let a; // Undefined
 // console.log(a); // undefined
