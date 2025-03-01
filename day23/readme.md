@@ -4,6 +4,6 @@
 
 3. sorting an array in descending order: Problem=> sort an array in descending order.
 
-4. reversing an array without reverse(): Problem=> Reverse an array without using .reverse()  .
+4. reversing an array without reverse(): Problem=> Reverse an array without using .reverse()  
 
 5. finding the most frequent element in an array : Problem=> find the most frequent element in an array.

@@ -33,3 +33,12 @@
 
 // })
 // ----------------------------------------------------
+
+// 4. reversing an array without reverse(): Problem=> Reverse an array without using .reverse()  
+// let arr = [1,2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,273,214];
+// let arr2 = [];
+// for(let i = arr.length-1;i>=0; i--){
+//     arr2.push(arr[i]);
+// }
+// console.log(arr)
+// console.log(arr2)
