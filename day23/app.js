@@ -23,6 +23,8 @@
 //     return b-a;
 // })[1]);
 
+//in fat arrow function
+// console.log([...new Set(arr)].sort((a,b)=>b-a)[1]);
 
 // sorting samajhne ke liye --------------------------
 // let answer = arr.sort(function(a,b){
