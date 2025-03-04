@@ -41,3 +41,29 @@
 // fnc()
 // fnc()
 // fnc()
+
+
+// Q4. Implement a function that limits how many times another function can be called (Closure + HOF).
+
+// function fnlimiter(fn, limit){
+//     let totalCalled = 0;
+//     return function(){
+//         if(totalCalled< limit){
+//             totalCalled++
+//             fn();
+//         }
+//         else{
+//             console.error("limit has reached , buy Premuim To more limits");
+//         }
+//     }
+// }
+
+// let limiter = fnlimiter(function(){
+//     console.log("hey");
+    
+// } , 3)
+
+// limiter();
+// limiter();
+// limiter();
+// limiter();
