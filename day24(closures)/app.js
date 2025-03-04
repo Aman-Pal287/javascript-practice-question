@@ -25,3 +25,19 @@
 
 
 // let ans = mapping(arr,(value)=> value*2)
+
+
+//Q3. Write a function that uses closures to create a counter.
+
+// function counter(){
+//     let count = 0;   
+//     return function(){
+//         count++;
+//         console.log(count);
+//     }
+// }
+
+// let fnc = counter();
+// fnc()
+// fnc()
+// fnc()
