@@ -5,3 +5,23 @@
 // callerfnc(function(){
 //     console.log("makra")
 // })
+
+// Q2. Implement your own version of `.map()` as a higher-order function.
+
+// layemn language- ek function banao jo ki accept kare array and accept kare ki kya chalana hai value par
+// let arr = [1,2,3,4,5,6];
+
+// function mapkicopy(a,fnc){
+//     let newarr = []
+//     for(var i = 0; i<arr.length; i++){
+//         newarr.push(fnc(arr[i]));
+//     }
+
+//     return newarr;
+// }
+// let ans = mapkicopy(arr,function(value){
+//     return value+1;
+// })
+
+
+// let ans = mapping(arr,(value)=> value*2)
