@@ -64,3 +64,22 @@
 // })
 // newfnc()
 // newfnc()
+
+
+// Q4. Implement a function that throttles another function (HOF + Closures).
+
+// function throt(fn,delay){
+//     let lastcall = 0;
+//     return function(){
+//         let current = Date.now()
+//         if(current-lastcall >= delay){
+//             lastcall = current;
+//             fn();
+//         }
+//     }
+// }
+
+// let ans = throt(function(){
+//     console.log("chala");    
+// },2000)
+// ans();
