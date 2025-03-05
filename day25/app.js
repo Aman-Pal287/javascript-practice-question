@@ -44,3 +44,23 @@
 // let spanishfnc = greetkaro("Hola!");
 // spanishfnc("aman")
 // spanishfnc("gkg")
+
+//Q3. Implement a function that takes a callback and only executes it once (HOF + Closure). 
+
+// function onlyoncecaller(cb) {
+//     let executed = false;
+//     return function () {
+//         if (!executed) {
+//             executed = true;
+//             cb();
+//         }
+//         else {
+//             console.error("doosri baar nhi chalega");
+//         }
+//     }
+// }
+// let newfnc = onlyoncecaller(function () {
+//     console.log("ran");
+// })
+// newfnc()
+// newfnc()
