@@ -40,3 +40,7 @@
 // greetingFunction("aman");
 // greetingFunction("shubham");
 // greetingFunction("dkpl");
+
+// let spanishfnc = greetkaro("Hola!");
+// spanishfnc("aman")
+// spanishfnc("gkg")
